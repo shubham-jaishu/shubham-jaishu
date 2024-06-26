@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-jaishu&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-jaishu" /> </p>
 
-- 🌱 Enhancing my web development skills and deepening my data structures knowledge.**
+- 🌱 Enhancing web development skills and deepening data structures knowledge.**
 
 - 💬 Ask me about **DSA and Web Development**
 
